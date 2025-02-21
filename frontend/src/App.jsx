@@ -1,7 +1,7 @@
 
 import './App.css'
 
-import Dashboard from './components/Dashboard'
+import Dashboard from './Components/Dashboard'
 import Login from './utils/Login'
 
 function App() {

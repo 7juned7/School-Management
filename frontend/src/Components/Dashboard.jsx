@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { FiUsers, FiBook, FiCalendar, FiLogOut, FiPlus, FiEdit, FiTrash } from "react-icons/fi";
-import DashboardContent from "../utils/DashboardContent";
+
 import Sidebar from "./Sidebar";
 import StudentCourses from "./Student/StudentCourses";
 import StudentDashboard from "./Student/StudentDashboard";
